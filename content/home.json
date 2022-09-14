@@ -57,7 +57,10 @@
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
-      "page": 1
+      "page": 1,
+      "collection_id": "62155ad77963422eee155c68:categories:PAR DA SORTE:/pardasorte",
+      "sort": "views",
+      "title": "Par da Sorte"
     }
   ]
 }
