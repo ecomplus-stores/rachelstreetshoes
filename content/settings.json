@@ -1,7 +1,7 @@
 {
   "domain": "rachelstreetshoes.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#222831",
+  "primary_color": "#000000",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
@@ -17,7 +17,7 @@
   "favicon": "/img/uploads/favicon.png",
   "icons_font": "_",
   "country_code": "BR",
-  "secondary_color": "#222831",
+  "secondary_color": "#000000",
   "icon": "/img/uploads/1646328832579-logo2.png",
   "store_id": 38535,
   "description": "rachelstreetshoes",
