@@ -1,5 +1,5 @@
 {
   "css": ".product__short-stock {\ndisplay: none;\n}\n.product-card__buy.fade {\n    display: contents;\n}\n.btn-primary {\nbackground:#FF9333\n} \n\n.btn-primary:hover{\nbackground:#FF9333\n}",
-  "html_head": "<meta name=\"facebook-domain-verification\" content=\"7l4uz4lr22c0ei2jvylsdog0xa7tpe\" />\n<script src=\"https://cdn.onesignal.com/sdks/OneSignalSDK.js\" async=\"\"></script>\n<script>\n  window.OneSignal = window.OneSignal || [];\n  OneSignal.push(function() {\n    OneSignal.init({\n      appId: \"257cfd39-472c-48be-a1a5-8abe84c65725\",\n      safari_web_id: \"web.onesignal.auto.09206a8d-cae3-491c-ad76-7a8d47a79aca\",\n      notifyButton: {\n        enable: true,\n      },\n    });\n  });\n</script>",
+  "html_head": "<meta name=\"facebook-domain-verification\" content=\"7l4uz4lr22c0ei2jvylsdog0xa7tpe\" />",
   "html_body": "<a href=\"https://wa.me/5531996703860?text= \" style=\"position:fixed;width:60px;height:60px;bottom:40px;background-color:#25d366;color:#FFF;border-radius:50px;text-align:center;font-size:30px;box-shadow: 1px 1px 2px #888;z-index:1000;right:40px;\" target=\"_blank\">\n<i style=\"margin-top:16px\" class=\"fab fa-whatsapp\"></i>\n</a>"
 }
