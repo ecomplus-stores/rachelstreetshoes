@@ -61,6 +61,15 @@
       "collection_id": "62155ad77963422eee155c68:categories:PAR DA SORTE:/pardasorte",
       "sort": "views",
       "title": "Par da Sorte"
+    },
+    {
+      "type": "offers-timer",
+      "max_hours": 24,
+      "start": "2022-11-21T18:55:19.012Z",
+      "end": "2022-11-30T18:49:47.333Z",
+      "offers": [
+        "622a63468bd0103c54ecc691"
+      ]
     }
   ]
 }
