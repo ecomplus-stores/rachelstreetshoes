@@ -5,7 +5,7 @@
   "options": {
     "buyText": "EU QUERO!",
     "buy": "",
-    "strHasQuantitySelector": " ",
+    "strHasQuantitySelector": "_",
     "strHasPromotionTimer": "_",
     "lowQuantityToWarn": 4,
     "maxVariationOptionsBtns": 8
