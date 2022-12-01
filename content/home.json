@@ -26,18 +26,18 @@
     {
       "type": "collection-shelf",
       "shuffle": true,
-      "collection_id": null,
+      "collection_id": "6217eeef7963422eee1b167c:categories:SALTOS:/salto",
       "sort": "sales",
       "title": "MAIS VENDIDOS",
       "headless": false,
-      "limit": 12,
-      "page": 1
+      "limit": 24,
+      "page": 4
     },
     {
       "type": "collection-shelf",
       "shuffle": false,
-      "limit": 12,
-      "page": 1,
+      "limit": 24,
+      "page": 4,
       "sort": "views",
       "title": "Queridinhos"
     },
@@ -48,28 +48,20 @@
     {
       "type": "collection-shelf",
       "shuffle": true,
-      "limit": 12,
-      "page": 1,
+      "limit": 24,
+      "page": 4,
       "sort": "offers",
-      "title": "Sale"
+      "title": "Sale",
+      "collection_id": "621557ea7963422eee15559d:categories:SALE:/sale"
     },
     {
       "type": "collection-shelf",
       "shuffle": false,
-      "limit": 12,
-      "page": 1,
+      "limit": 24,
+      "page": 4,
       "collection_id": "62155ad77963422eee155c68:categories:PAR DA SORTE:/pardasorte",
       "sort": "views",
       "title": "Par da Sorte"
-    },
-    {
-      "type": "offers-timer",
-      "max_hours": 24,
-      "start": "2022-11-21T18:55:19.012Z",
-      "end": "2022-11-30T18:49:47.333Z",
-      "offers": [
-        "622a63468bd0103c54ecc691"
-      ]
     }
   ]
 }
