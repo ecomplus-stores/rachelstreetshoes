@@ -25,7 +25,7 @@
     },
     {
       "type": "collection-shelf",
-      "shuffle": false,
+      "shuffle": true,
       "limit": 24,
       "page": 4,
       "sort": "views",
