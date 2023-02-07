@@ -31,7 +31,7 @@
       "shuffle": true,
       "limit": 24,
       "page": 1,
-      "sort": "views",
+      "sort": "news",
       "title": "Queridinhas",
       "collection_id": "6217eec37963422eee1b15e4:categories:RASTEIRAS:/rasteiras"
     },
