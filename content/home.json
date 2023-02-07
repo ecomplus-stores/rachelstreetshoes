@@ -41,7 +41,8 @@
     {
       "type": "responsive-banner",
       "img": "/img/uploads/destaque-do-mes-2-.png",
-      "link": "https://rachelstreetshoes.com.br/rasteirinhadeamarrarpreta"
+      "link": "https://rachelstreetshoes.com.br/rasteirinhadeamarrarpreta",
+      "mobile_img": "/img/uploads/destaque-do-mes-2-.png"
     },
     {
       "type": "collection-shelf",
