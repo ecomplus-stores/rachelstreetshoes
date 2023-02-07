@@ -10,12 +10,9 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/9.png"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/18.png"
+          "img": "/img/uploads/banner-responsivo.png",
+          "mobile_img": "/img/uploads/banner-responsivo.png",
+          "link": ""
         }
       ]
     },
