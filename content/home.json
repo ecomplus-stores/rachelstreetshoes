@@ -45,10 +45,28 @@
       "page": 1
     },
     {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "limit": 24,
+      "page": 1,
+      "sort": "views",
+      "title": "Cintos",
+      "collection_id": "621558ec7963422eee155800:categories:CINTOS:/cintos"
+    },
+    {
       "type": "responsive-banner",
       "img": "/img/uploads/destaque-do-mes-2-.png",
       "link": "https://rachelstreetshoes.com.br/rasteirinhadeamarrarpreta",
       "mobile_img": "/img/uploads/destaque-do-mes-2-.png"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "limit": 24,
+      "page": 1,
+      "collection_id": "62cdde89eb85911216847133:categories:BOLSAS:/bolsas",
+      "sort": "views",
+      "title": "Bags"
     },
     {
       "type": "collection-shelf",
@@ -67,18 +85,6 @@
       "collection_id": "62155ad77963422eee155c68:categories:PAR DA SORTE:/pardasorte",
       "sort": "views",
       "title": "Par da Sorte"
-    },
-    {
-      "type": "banners-grid"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": true,
-      "limit": 24,
-      "page": 1,
-      "sort": "views",
-      "title": "Cintos",
-      "collection_id": "621558ec7963422eee155800:categories:CINTOS:/cintos"
     }
   ]
 }
