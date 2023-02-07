@@ -31,7 +31,7 @@
       "shuffle": true,
       "limit": 24,
       "page": 4,
-      "sort": "views",
+      "sort": "lowest_price",
       "title": "Queridinhos",
       "collection_id": "6217eec37963422eee1b15e4:categories:RASTEIRAS:/rasteiras"
     },
