@@ -28,10 +28,10 @@
     },
     {
       "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 6,
+      "shuffle": true,
+      "limit": 24,
       "page": 1,
-      "sort": "news",
+      "sort": "views",
       "title": "Queridinhas",
       "collection_id": "6217eec37963422eee1b15e4:categories:RASTEIRAS:/rasteiras"
     },
