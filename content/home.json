@@ -13,6 +13,12 @@
           "img": "/img/uploads/banner-responsivo.png",
           "mobile_img": "/img/uploads/banner-responsivo.png",
           "link": ""
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/9.png",
+          "mobile_img": "/img/uploads/9.png"
         }
       ]
     },
@@ -61,6 +67,9 @@
       "collection_id": "62155ad77963422eee155c68:categories:PAR DA SORTE:/pardasorte",
       "sort": "views",
       "title": "Par da Sorte"
+    },
+    {
+      "type": "banners-grid"
     }
   ]
 }
