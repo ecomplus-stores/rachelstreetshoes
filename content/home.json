@@ -70,6 +70,15 @@
     },
     {
       "type": "banners-grid"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "limit": 24,
+      "page": 1,
+      "sort": "views",
+      "title": "Cintos",
+      "collection_id": "621558ec7963422eee155800:categories:CINTOS:/cintos"
     }
   ]
 }
