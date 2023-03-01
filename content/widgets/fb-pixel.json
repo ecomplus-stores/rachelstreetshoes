@@ -6,7 +6,8 @@
   "options": {
     "fbqContainerId": "880079989524936",
     "debug": false,
-    "partytown": false
+    "partytown": false,
+    "disablePurchase": true
   },
   "headAppend": "src/append/head",
   "bodyAppend": "src/append/body"
