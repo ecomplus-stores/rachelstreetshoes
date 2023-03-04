@@ -56,9 +56,9 @@
     },
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/destaque-do-mes-2-.png",
+      "img": "/img/uploads/destaque-do-mes-3-.png",
       "link": "https://rachelstreetshoes.com.br/rasteirinhadeamarrarpreta",
-      "mobile_img": "/img/uploads/destaque-do-mes-2-.png"
+      "mobile_img": "/img/uploads/destaque-do-mes-3-.png"
     },
     {
       "type": "collection-shelf",
@@ -86,15 +86,6 @@
       "collection_id": "62155ad77963422eee155c68:categories:PAR DA SORTE:/pardasorte",
       "sort": "views",
       "title": "Par da Sorte"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": true,
-      "limit": 24,
-      "page": 1,
-      "sort": "offers",
-      "title": "Sale",
-      "collection_id": "621557ea7963422eee15559d:categories:SALE:/sale"
     }
   ]
 }
