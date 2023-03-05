@@ -37,9 +37,9 @@
     },
     {
       "type": "collection-shelf",
-      "shuffle": true,
+      "shuffle": false,
       "collection_id": "6217eeef7963422eee1b167c:categories:SALTOS:/salto",
-      "sort": "sales",
+      "sort": "news",
       "title": "MAIS VENDIDOS",
       "headless": false,
       "limit": 24,
